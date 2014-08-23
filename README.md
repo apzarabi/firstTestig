@@ -1,1 +1,1 @@
-echo 'hello-world'
+mamad khar ast!
