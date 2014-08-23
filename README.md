@@ -1,2 +1,1 @@
-firstTestig
-===========
+echo 'hello-world'
